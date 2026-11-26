@@ -1,0 +1,9 @@
+,test
+mean MSE across industries (sep),0.17812195
+mean MSE across industries (sim),0.17195281
+pooled RMSE = sqrt(mean MSE) (sep),0.42204496
+pooled RMSE = sqrt(mean MSE) (sim),0.41467193
+"change in mean MSE, sim vs sep (%)",-3.463435173034668
+industries where sim improves on sep,9 of 10
+pooled NW t (sep - sim),3.8336526114396605
+share of months sim better,0.85
